@@ -19,3 +19,7 @@ var f = false
 console.log(v && f)
 console.log(v || f)
 console.log(!v)
+
+var edad = 29
+var res = edad >= 18 ? console.log('mayor de edad') : console.log('menor de edad')
+console.log(res)
