@@ -1,4 +1,4 @@
-var edad = 7
+var edad = 29
 
 if(edad >= 18 && edad <= 30){
     console.log("Joven adulto")
