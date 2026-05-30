@@ -1,0 +1,15 @@
+{
+  "name": "servernode",
+  "version": "1.0.0",
+  "description": "aprendiendo node js y express basico ",
+  "license": "ISC",
+  "author": "Stiven V",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
